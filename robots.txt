@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-5xo502.hartawin-pro.online/sitemap.xml
